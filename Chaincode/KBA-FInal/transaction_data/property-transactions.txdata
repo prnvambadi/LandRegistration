@@ -1,0 +1,88 @@
+[
+    {
+        "transactionName": "propertyExists",
+        "transactionLabel": "A test propertyExists transaction",
+        "arguments": [
+            "property002"
+
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createProperty",
+        "transactionLabel": "A test createProperty transaction",
+        "arguments": [
+            "property002",
+            "4.565, 556.6565",
+            "KarakkadLane-Karakkamandapam",
+            "3.5 Plot",
+            "686544",
+            "Trivandrum",
+            "Kerala",
+            "rtyruu",
+            "Anil"             
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readProperty",
+        "transactionLabel": "A test readProperty transaction",
+        "arguments": [
+            "property002"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteProperty",
+        "transactionLabel": "A test deleteProperty transaction",
+        "arguments": [
+            "property001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "queryAllProperty",
+        "transactionLabel": "A test queryAllProperty transaction",
+        "arguments": [
+            ""
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "getPropertyHistory",
+        "transactionLabel": "A test queryAllProperty transaction",
+        "arguments": [
+            "property001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "getPropertywithPagination",
+        "transactionLabel": "A test getPropertywithPagination transaction",
+        "arguments": [
+            "2",""
+        ],
+        "transientData": {}
+    },
+     {
+        "transactionName": "acceptOrder",
+        "transactionLabel": "A test acceptOrder transaction",
+        "arguments": [
+            "property001",
+            "order2"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "registerProperty",
+        "transactionLabel": "A test acceptOrder transaction",
+        "arguments": [
+            "property001",
+            "order2"
+        ],
+        "transientData": {}
+    }
+    
+   
+    
+]

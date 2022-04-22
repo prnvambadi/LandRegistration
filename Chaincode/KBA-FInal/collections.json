@@ -1,0 +1,11 @@
+[
+    {
+       "name": "CollectionOrder",
+       "policy":"OR('seller-blockland-com.member','buyer-blockland-com.member')",
+       "requiredPeerCount":1,
+       "maxPeerCount":1,
+       "blockToLive":0,
+       "memberOnlyRead":true,
+       "memberOnlyWrite":true
+    }
+]

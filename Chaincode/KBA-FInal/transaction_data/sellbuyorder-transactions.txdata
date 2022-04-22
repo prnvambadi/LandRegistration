@@ -1,0 +1,48 @@
+[
+    {
+        "transactionName": "sellbuyorderExists",
+        "transactionLabel": "A test sellbuyorderExists transaction",
+        "arguments": [
+            "order1"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createSellbuyorder",
+        "transactionLabel": "A test createSellbuyorder transaction",
+        "arguments": [
+            "order2"
+        ],
+        "transientData": {
+            "propertyDetails": "5cents",
+            "propertyLoc": "Karakkamandapam",
+            "buyerName":"vimala",
+            "buyerOffer":"50,00,000"
+        }
+    },
+    {
+        "transactionName": "readSellbuyorder",
+        "transactionLabel": "A test readSellbuyorder transaction",
+        "arguments": [
+            "order1"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteSellbuyorder",
+        "transactionLabel": "A test deleteSellbuyorder transaction",
+        "arguments": [
+            "order1"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "queryAllOrders",
+        "transactionLabel": "A test queryAllOrders transaction",
+        "arguments": [
+            ""
+        ],
+        "transientData": {}
+    }
+   
+]
