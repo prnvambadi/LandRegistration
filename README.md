@@ -1,9 +1,5 @@
 
 
-<p align="center">
-A Sample prototype application for managing automobile details backed by Hyperledger fabric
-</p>
-
 ## Installation
 
 ### Installing Basic Dependencies
