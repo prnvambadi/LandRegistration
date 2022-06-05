@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://kba.ai/">
-    <img alt="KBA" src="https://kba.ai/wp-content/uploads/2020/09/KBA_450x50-.png" width="300">
-  </a>
-</p>
+
 
 <p align="center">
 A Sample prototype application for managing automobile details backed by Hyperledger fabric
